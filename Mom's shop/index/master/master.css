@@ -47,17 +47,11 @@ h1{
     color:#53436A;
     font-size:20px;
 }
-table td{
-    color:white;
-    text-align:center;
-    background-color: black;
-}
 table img{
     width: 200px;
     height:200px;
 }
-table{
-    height: 100px;
-    border-color: black;
-    background-color: black;
+
+#font-fix{
+    font-size: 9px;
 }
