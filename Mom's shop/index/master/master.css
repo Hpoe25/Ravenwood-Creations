@@ -1,0 +1,63 @@
+#banner img{
+    height: 200px;
+}
+body{
+    background-color: black;
+}
+
+h4{
+    color:white;
+}
+label{
+    color:white
+}
+#footnote{
+    background-color: #53436A;
+    color:white;
+    bottom:0;
+    font-size:20px;
+}
+h2{
+    font-size: 20px;
+}
+#stories img{
+    float:left;
+    height:100px;
+}
+#stories{
+    background-color: #865e9c;
+    color:white;
+    word-wrap:break-word;
+}
+img{
+    height:400px;
+    float:middle;
+}
+.carousel-inner img{
+    display:inline-block;
+}
+.carousel-item{
+    text-align:center
+}
+.img-fluid{
+    max-width: 100%;
+    height:auto;
+}
+h1{
+    color:#53436A;
+    font-size:20px;
+}
+table td{
+    color:white;
+    text-align:center;
+    background-color: black;
+}
+table img{
+    width: 200px;
+    height:200px;
+}
+table{
+    height: 100px;
+    border-color: black;
+    background-color: black;
+}
