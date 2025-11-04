@@ -38,7 +38,7 @@ img{
     display:inline-block;
 }
 .carousel-item{
-    text-align:center
+    text-align:center;
 }
 .img-fluid{
     max-width: 100%;
