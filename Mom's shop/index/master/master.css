@@ -30,6 +30,11 @@ h2{
     color:white;
     word-wrap:break-word;
 }
+#stories{
+    background-color: #865e9c;
+    color:white;
+    word-wrap:break-word;
+}
 img{
     height:400px;
     float:middle;
