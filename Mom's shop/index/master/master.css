@@ -7,6 +7,7 @@ body{
 
 h4{
     color:white;
+    background-color: black;
 }
 label{
     color:white
@@ -50,8 +51,37 @@ h1{
 table img{
     width: 200px;
     height:200px;
+    background-color: black;
 }
 
-#font-fix{
+#font-fix h3{
     font-size: 9px;
+}
+
+table{
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+h3{
+    background-color: black;
+    color:white;
+    font-size: 15px;
+}
+.btn {
+  background-color: DodgerBlue;
+  border: none;
+  color: white;
+  padding: 12px 30px;
+  cursor: pointer;
+  font-size: 20px;
+}
+
+/* Darker background on mouse-over */
+.btn:hover {
+  background-color: RoyalBlue;
+}
+#pdf img{
+    height:100px;
+    width:200px;
 }
