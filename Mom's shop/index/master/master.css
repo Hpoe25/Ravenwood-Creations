@@ -25,7 +25,7 @@ h2{
     float:left;
     height:100px;
 }
-#stories{
+#stories h3{
     background-color: #865e9c;
     color:white;
     word-wrap:break-word;
@@ -54,7 +54,7 @@ table img{
     background-color: black;
 }
 
-#font-fix h3{
+#font-fix h5{
     font-size: 9px;
 }
 
@@ -63,7 +63,7 @@ table{
     color: white;
     text-align: center;
 }
-h3{
+h5{
     background-color: black;
     color:white;
     font-size: 15px;
