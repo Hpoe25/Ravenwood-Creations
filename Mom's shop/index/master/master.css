@@ -23,13 +23,13 @@ h2{
 }
 #stories img{
     float:left;
-    height:100px;
+    height:90px;
 }
 #stories h3{
     background-color: #865e9c;
     color:white;
     word-wrap:break-word;
-    font-size: 50px;
+    font-size: 40px;
 }
 #stories{
     background-color: #865e9c;
